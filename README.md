@@ -12,7 +12,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=black&color=4C4C4C)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=195598&color=4C4C4C)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=EAE11C&color=4C4C4C)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=red&color=4C4C4C)
 ![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=kafka&logoColor=white&color=4C4C4C)
 ![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=elasticsearch&logoColor=F05032&color=4C4C4C)
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=jenkins&logoColor=F05032&color=4C4C4C)
