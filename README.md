@@ -8,10 +8,10 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=ADADAD)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=1798C8)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=1798C8)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=1798C8)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=1798C8)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=kafka&logoColor=white)
 ![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=elasticsearch&logoColor=F05032)
