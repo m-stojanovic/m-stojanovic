@@ -22,11 +22,10 @@
 ![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=git&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=git&logoColor=F05032)
 
-##### Some of my favorite open source projects
+![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
 
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+**Languages and Tools:** 
+<p align="left">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  
+</p>
