@@ -1,16 +1,11 @@
 ##### Hi, I'm Milos:
 
 - Information technology graduate at Racunarski Fakultet - Belgrade
-- :mailbox: You can reach me with the links below
+- You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infomilosstojanovic@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infomilosstojanovic/)
 
-##### Languages I use
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![BASH]
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
