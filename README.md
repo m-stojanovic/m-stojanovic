@@ -18,7 +18,7 @@
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=jenkins&logoColor=F05032&color=4C4C4C)
 ![Docker](https://img.shields.io/badge/-docker-222222?style=flat&logo=docker&logoColor=41D5EC&color=4C4C4C)
 ![Bash](https://img.shields.io/badge/-bash-222222?style=flat&logo=bash&logoColor=C5CC2A&color=4C4C4C)
-![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=aws&logoColor=F1B924&color=4C4C4C)
+![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=amazon&logoColor=F1B924&color=4C4C4C)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
