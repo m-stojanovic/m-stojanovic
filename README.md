@@ -19,7 +19,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=cisco&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/-ELK-Stack-222222?style=flat&logo=git&logoColor=F05032)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=git&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=git&logoColor=F05032)
 
 ##### Some of my favorite open source projects
