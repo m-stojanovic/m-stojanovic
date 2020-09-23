@@ -9,13 +9,17 @@
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=4C4C4C)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=1798C8&color=4C4C4C)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=1798C8&color=4C4C4C)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=1798C8&color=4C4C4C)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white&color=4C4C4C)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=black&color=4C4C4C)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=195598&color=4C4C4C)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=EAE11C&color=4C4C4C)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=red&color=4C4C4C)
 ![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=kafka&logoColor=white&color=4C4C4C)
 ![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=elasticsearch&logoColor=F05032&color=4C4C4C)
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=jenkins&logoColor=F05032&color=4C4C4C)
+![Docker](https://img.shields.io/badge/-docker-222222?style=flat&logo=jenkins&logoColor=41D5EC&color=4C4C4C)
+![Bash](https://img.shields.io/badge/-bash-222222?style=flat&logo=jenkins&logoColor=C5CC2A&color=4C4C4C)
+![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=jenkins&logoColor=F1B924&color=4C4C4C)
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
 
