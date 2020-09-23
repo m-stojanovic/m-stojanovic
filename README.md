@@ -22,9 +22,8 @@
 ![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=git&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=git&logoColor=F05032)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
-
 <p>
+    ![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
     <img src="http://views.whatilearened.today/views/github/m-stojanovic/views.svg"/>
     <a href="https://github.com/m-stojanovic/"><img src="https://img.shields.io/github/followers/m-stojanovic?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/m-stojanovic?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
