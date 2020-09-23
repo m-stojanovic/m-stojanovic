@@ -18,7 +18,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![KAFKA]
+![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=cisco&logoColor=white)
 
 ##### Some of my favorite open source projects
 
