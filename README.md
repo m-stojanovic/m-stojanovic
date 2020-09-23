@@ -4,7 +4,7 @@
 - You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infomilosstojanovic@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/infomilosstojanovic/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infomilosstojanovic/)
 
 ##### Some of the technologies I have worked with
 
@@ -18,7 +18,6 @@
 ![Docker](https://img.shields.io/badge/-docker-222222?style=flat&logo=docker&logoColor=41D5EC&color=4C4C4C)
 ![Bash](https://img.shields.io/badge/-bash-222222?style=flat&logo=shell&logoColor=C5CC2A&color=4C4C4C)
 ![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=amazon&logoColor=F1B924&color=4C4C4C)
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
 
