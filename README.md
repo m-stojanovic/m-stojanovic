@@ -8,14 +8,14 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032&color=fffff)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=fffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat-square&logo=kafka&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat-square&logo=elasticsearch&logoColor=F05032)
-![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=for-the-badge&logo=jenkins&logoColor=F05032)
+![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=kafka&logoColor=white)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=elasticsearch&logoColor=F05032)
+![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=jenkins&logoColor=F05032)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=m-stojanovic&show_icons=true)
 
