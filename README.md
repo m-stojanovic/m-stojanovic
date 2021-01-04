@@ -1,4 +1,4 @@
-##### Hi, I'm Milos:
+#### Hi, I'm Milos:
 
 - Information technology graduate at Racunarski Fakultet - Belgrade
 - You can reach me with the links below
@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infomilosstojanovic@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infomilosstojanovic/)
 
-##### Some of the technologies I have worked with
+#### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=4C4C4C)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=black&color=4C4C4C)
